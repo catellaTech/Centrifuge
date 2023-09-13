@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T17:11:21.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sw9Hy2tl6zgwk0IsTvkx" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T17:13:27.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QNBWJj6nv4JoTy6DEquC" version="21.7.4" type="github">
   <diagram name="Página-1" id="xJL-yOYU4o_q4wXbg3Tc">
-    <mxGraphModel dx="1764" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3176" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,17 +18,17 @@
         </mxCell>
         <mxCell id="OmWuvQowkOaVl8Fed1vT-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="80" as="sourcePoint" />
-            <mxPoint x="2470" y="80" as="targetPoint" />
+            <mxPoint x="560" y="80" as="sourcePoint" />
+            <mxPoint x="1990" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OmWuvQowkOaVl8Fed1vT-6" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="OmWuvQowkOaVl8Fed1vT-5">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OmWuvQowkOaVl8Fed1vT-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OmWuvQowkOaVl8Fed1vT-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="21" y="770" as="sourcePoint" />
-            <mxPoint x="2461" y="770" as="targetPoint" />
+            <mxPoint x="560" y="770" as="sourcePoint" />
+            <mxPoint x="1990" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OmWuvQowkOaVl8Fed1vT-8" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="OmWuvQowkOaVl8Fed1vT-7">
@@ -50,7 +50,7 @@
           <mxGeometry x="1146" y="430" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OmWuvQowkOaVl8Fed1vT-18" value="&lt;img alt=&quot;aave insignia de aave representación criptográfica 3d 11307363 PNG&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA02i95h0WrBreNEay72ErgH4GPUbYsTWSA&amp;amp;usqp=CAU&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="270" width="232" height="230" as="geometry" />
+          <mxGeometry x="1500" y="240" width="232" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OmWuvQowkOaVl8Fed1vT-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="OmWuvQowkOaVl8Fed1vT-20" target="OmWuvQowkOaVl8Fed1vT-31">
           <mxGeometry relative="1" as="geometry" />
